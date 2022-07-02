@@ -10,3 +10,5 @@
 
 ## 💻 Projeto
 Global Labs é uma página institucional no formato One Page, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Projeto desenvolvido durante o Bootcamp Inter Front-end realizados pela Digital Innovation One (DIO) em Janeiro/2022.
+
+Você pode acessar o projeto através [desse link](https://andresa-alves-ribeiro.github.io/global-labs/).
